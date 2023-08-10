@@ -111,4 +111,7 @@ button{
 footer{
     justify-content: center;
 }
+main{
+    flex-direction: column;
+}
 }
